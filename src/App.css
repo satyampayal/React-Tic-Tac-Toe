@@ -1,0 +1,17 @@
+.block{
+  width:150px;
+  height: 150px;
+  border: 2px solid black ;
+  background-size: cover;
+  display: inline-block;
+ 
+}
+
+.mark1{
+  background-image: url('images/cross.png');
+}
+.mark2
+{
+  background-image: url('images/dot.png');
+
+}
